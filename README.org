@@ -1,22 +1,18 @@
 #+STARTUP: showeverything
 #+SEQ_TODO: TODO HALF | DONE
-#+TAGS: noexport(n) finished(f) reading(r)
+#+TAGS: noexport(n) Finished(f) Reading(r)
 #+AUTHOR: dennyzhang.com (denny@dennyzhang.com)
 #+OPTIONS: creator:nil
 * Books
-#+BEGIN_HTML
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
 <a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
-#+END_HTML
-** Design It!: From Programmer to Software Architect                :reading:
-
+** Design It!: From Programmer to Software Architect                :Reading:
 https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/ref=sr_1_1?s=books&ie=UTF8&qid=1531189933&sr=1-1&keywords=design+it
-** Building Microservices: Designing Fine-Grained Systems           :reading:
+** Building Microservices: Designing Fine-Grained Systems           :Reading:
 https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358
-** Phoenix Project                                                 :finished:
----------------------------------------------------------------------
+** Phoenix Project                                                 :Finished:
 - [[url-external:https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=71878608a6bfd8fe98ca2cc56a10031a&creativeASIN=0988262509][The Phoenix Project]]: An interesting novel. I love it! Quite easy to read and very amusing. 
 
 And it helps to answer one common question: What is DevOps? How does it look like?
@@ -30,15 +26,14 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=0988262509&amp;asins=0988262509&amp;linkId=71878608a6bfd8fe98ca2cc56a10031a&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
 </iframe>
 #+END_HTML
-** Site Reliability Engineering                                    :finished:
+** Site Reliability Engineering                                    :Finished:
  - [[url-external:https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=2597588f2e45ec8d7582fd8e46108cc0&creativeASIN=149192912X][Site Reliability Engineering]]: From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
 **** details                                                       :noexport:
  #+BEGIN_HTML
  <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
  </iframe>
  #+END_HTML
-** #  --8<-------------------------- separator ------------------------>8-- :noexport:
-** DONE                                                            :noexport:
+** HALF                                                            :noexport:
 ** TODO [#A] Generate amazon associate link
 ** TODO export markdown with correct image link
 ** TODO Crontab to publish markdown from org-mode knowledgebase
