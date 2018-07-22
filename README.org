@@ -4,10 +4,12 @@
 #+AUTHOR: dennyzhang.com (denny@dennyzhang.com)
 #+OPTIONS: creator:nil
 * Books
+#+BEGIN_HTML
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
-<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
+<a href="https://www.linkedin.com/in/dennyzhang001"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/linkedin.png" /></a>
+#+END_HTML
 ** Design It!: From Programmer to Software Architect                :Reading:
 https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/ref=sr_1_1?s=books&ie=UTF8&qid=1531189933&sr=1-1&keywords=design+it
 ** Building Microservices: Designing Fine-Grained Systems           :Reading:
