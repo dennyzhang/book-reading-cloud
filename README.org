@@ -1,0 +1,34 @@
+-*- mode:org; fill-column:70; coding:utf-8; -*-
+#+STARTUP: overview customtime noalign logdone hidestars
+#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
+#+DRAWERS: HIDDEN CODE CONF EMAIL WEBPAGE SNIP
+#+TAGS: ARCHIVE(a) WEBPAGE(w) LIFE(l) IMPORTANT(i) noexport(n) Difficult(d) Target(t) Misc(m) BLOG(b) Family(f)
+#+PRIORITIES: A D C
+#+ARCHIVE: %s_done::** Finished Tasks
+#+AUTHOR: dennyzhang.com (denny@dennyzhang.com)
+#+OPTIONS: creator:nil
+#+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
+* Books
+** Phoenix Project
+---------------------------------------------------------------------
+- [[url-external:https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=71878608a6bfd8fe98ca2cc56a10031a&creativeASIN=0988262509][The Phoenix Project]]: An interesting novel. I love it! Quite easy to read and very amusing. 
+
+And it helps to answer one common question: What is DevOps? How does it look like?
+
+One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
+
+#+BEGIN_HTML
+<div>
+<iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=0988262509&amp;asins=0988262509&amp;linkId=71878608a6bfd8fe98ca2cc56a10031a&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+#+END_HTML
+*** details                                                        :noexport:
+---------------------------------------------------------------------
+** Site Reliability Engineering
+- [[url-external:https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=2597588f2e45ec8d7582fd8e46108cc0&creativeASIN=149192912X][Site Reliability Engineering]]: From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
+
+#+BEGIN_HTML
+<iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+</iframe>
+#+END_HTML
+*** details                                                        :noexport:
