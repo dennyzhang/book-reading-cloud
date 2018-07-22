@@ -12,23 +12,26 @@
 #+END_HTML
 ** Design It!: From Programmer to Software Architect                :Reading:
 #+BEGIN_HTML
-<a href="https://amzn.to/2uIJrPb"><img src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uIJrPb"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
 #+END_HTML
 
-https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/ref=sr_1_1?s=books&ie=UTF8&qid=1531189933&sr=1-1&keywords=design+it
 ** Building Microservices: Designing Fine-Grained Systems           :Reading:
-https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358
+- [[https://amzn.to/2uCwzdB][Building Microservices]]: Very informative and helpful, if your org want to migrate to container world.
 
 #+BEGIN_HTML
-<a href="https://amzn.to/2uCwzdB"><img src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uCwzdB"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
 #+END_HTML
 
 ** Phoenix Project                                                 :Finished:
-- [[url-external:https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=71878608a6bfd8fe98ca2cc56a10031a&creativeASIN=0988262509][The Phoenix Project]]: An interesting novel. I love it! Quite easy to read and very amusing. 
+- [[https://amzn.to/2Ny00V9][The Phoenix Project]] An interesting novel. I love it! Quite easy to read and very amusing. 
 
 And it helps to answer one common question: What is DevOps? How does it look like?
 
 One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
+
+#+BEGIN_HTML
+<a href="https://amzn.to/2Ny00V9"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
+#+END_HTML
 
 *** details                                                        :noexport:
 ---------------------------------------------------------------------
@@ -38,7 +41,14 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 </iframe>
 #+END_HTML
 ** Site Reliability Engineering                                    :Finished:
- - [[url-external:https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=2597588f2e45ec8d7582fd8e46108cc0&creativeASIN=149192912X][Site Reliability Engineering]]: From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
+- [[https://amzn.to/2uGnKiH][Site Reliability Engineering]]
+
+From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
+
+#+BEGIN_HTML
+<a href="https://amzn.to/2uCwzdB"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
+#+END_HTML
+
 **** details                                                       :noexport:
 #+BEGIN_HTML
  <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
@@ -47,7 +57,6 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 
 ----------------------------------------------------------------------------------------------------------------
 #+BEGIN_HTML
-
 <a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
 
 <a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
