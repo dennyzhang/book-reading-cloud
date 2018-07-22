@@ -1,18 +1,26 @@
 
 # Table of Contents
 
-1.  [Books](#orga389fa3)
-    1.  [Phoenix Project](#orgaea6bed)
-    2.  [Site Reliability Engineering](#org8da384c)
+1.  [Books](#org5e4d049)
+    1.  [Phoenix Project](#org1d307b8)
+    2.  [Site Reliability Engineering](#org35093df)
 
 
 
-<a id="orga389fa3"></a>
+<a id="org5e4d049"></a>
 
 # Books
 
+<div class="HTML">
+<a href="<https://www.linkedin.com/in/dennyzhang001>"><img src="![img](https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png)" alt="linkedin" /></a>  
+<a href="<https://github.com/DennyZhang>"><img src="![img](https://www.dennyzhang.com/wp-content/uploads/sns/github.png)" alt="github" /></a>  
+<a href="<https://www.dennyzhang.com/slack>" target="\_blank" rel="nofollow"><img src="![img](http://slack.dennyzhang.com/badge.svg)" alt="slack"/></a>  
+<a href="<https://github.com/DennyZhang?tab=followers>"><img align="right" width="200" height="183" src="![img](https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png)" /></a>  
 
-<a id="orgaea6bed"></a>
+</div>
+
+
+<a id="org1d307b8"></a>
 
 ## Phoenix Project
 
@@ -25,7 +33,7 @@ And it helps to answer one common question: What is DevOps? How does it look lik
 One big problem for reading is it's super hard to start. This novel makes it easier. Try it.  
 
 
-<a id="org8da384c"></a>
+<a id="org35093df"></a>
 
 ## Site Reliability Engineering
 

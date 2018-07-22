@@ -8,6 +8,12 @@
 #+OPTIONS: creator:nil
 #+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
 * Books
+#+BEGIN_HTML
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
+<a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+#+END_HTML
 ** Phoenix Project
 ---------------------------------------------------------------------
 - [[url-external:https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=71878608a6bfd8fe98ca2cc56a10031a&creativeASIN=0988262509][The Phoenix Project]]: An interesting novel. I love it! Quite easy to read and very amusing. 
