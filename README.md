@@ -1,42 +1,52 @@
 
 # Table of Contents
 
-1.  [Books](#org745ff07)
-    1.  [Design It!: From Programmer to Software Architect](#orgfc8ad52):Reading:
-    2.  [Building Microservices: Designing Fine-Grained Systems](#org600d25b):Reading:
-    3.  [Phoenix Project](#orgdca7c6d):Finished:
-    4.  [Site Reliability Engineering](#orgacf363a):Finished:
+1.  [Books](#org954f2f1)
+    1.  [Design It!: From Programmer to Software Architect](#orgeb1a2bb):Reading:
+    2.  [Building Microservices: Designing Fine-Grained Systems](#org0cda47f):Reading:
+    3.  [Phoenix Project](#org7837189):Finished:
+    4.  [Site Reliability Engineering](#orgc8054a3):Finished:
 
 
 
-<a id="org745ff07"></a>
+<a id="org954f2f1"></a>
 
 # Books
 
 <div class="HTML">
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://www.dennyzhang.com/slack"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
-<a href="https://www.linkedin.com/in/dennyzhang001"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/linkedin.png" /></a>
+<a href="https://www.dennyzhang.com/slack" target="\_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
+<a href="https://github.com/DennyZhang"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 
 </div>
 
 
-<a id="orgfc8ad52"></a>
+<a id="orgeb1a2bb"></a>
 
 ## Design It!: From Programmer to Software Architect     :Reading:
+
+<div class="HTML">
+<a href="https://amzn.to/2uIJrPb"><img src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
+
+</div>
 
 https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/ref=sr_1_1?s=books&ie=UTF8&qid=1531189933&sr=1-1&keywords=design+it
 
 
-<a id="org600d25b"></a>
+<a id="org0cda47f"></a>
 
 ## Building Microservices: Designing Fine-Grained Systems     :Reading:
 
 https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358
 
+<div class="HTML">
+<a href="https://amzn.to/2uCwzdB"><img src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
 
-<a id="orgdca7c6d"></a>
+</div>
+
+
+<a id="org7837189"></a>
 
 ## Phoenix Project     :Finished:
 
@@ -47,7 +57,7 @@ And it helps to answer one common question: What is DevOps? How does it look lik
 One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
 
 
-<a id="orgacf363a"></a>
+<a id="orgc8054a3"></a>
 
 ## Site Reliability Engineering     :Finished:
 
