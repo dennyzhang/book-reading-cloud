@@ -1,18 +1,16 @@
 
 # Table of Contents
 
-1.  [Books](#org2f660d8)
-    1.  [Reading](#orge2d4601)
-        1.  [Design It!: From Programmer to Software Architect](#org9a902b3)
-        2.  [Building Microservices: Designing Fine-Grained Systems](#org2f88642)
-    2.  [Finished](#org322889f)
-        1.  [Phoenix Project](#org60222d7)
-        2.  [Site Reliability Engineering](#org632b6b4)
-    3.  [:noexport:](#org3887e58)
+1.  [Books](#orga9399ea)
+    1.  [Design It!: From Programmer to Software Architect](#org94cbea1):reading:
+    2.  [Building Microservices: Designing Fine-Grained Systems](#org1e6527e):reading:
+    3.  [Phoenix Project](#org93925ea):finished:
+    4.  [Site Reliability Engineering](#orgde74a0d):finished:
+    5.  [:noexport:](#org5af61e0)
 
 
 
-<a id="org2f660d8"></a>
+<a id="orga9399ea"></a>
 
 # Books
 
@@ -25,33 +23,23 @@
 </div>
 
 
-<a id="orge2d4601"></a>
+<a id="org94cbea1"></a>
 
-## Reading
-
-
-<a id="org9a902b3"></a>
-
-### Design It!: From Programmer to Software Architect
+## Design It!: From Programmer to Software Architect     :reading:
 
 <https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Programmers/dp/1680502093/ref=sr_1_1?s=books&ie=UTF8&qid=1531189933&sr=1-1&keywords=design+it>
 
 
-<a id="org2f88642"></a>
+<a id="org1e6527e"></a>
 
-### Building Microservices: Designing Fine-Grained Systems
+## Building Microservices: Designing Fine-Grained Systems     :reading:
 
 <https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358>
 
 
-<a id="org322889f"></a>
+<a id="org93925ea"></a>
 
-## Finished
-
-
-<a id="org60222d7"></a>
-
-### Phoenix Project
+## Phoenix Project     :finished:
 
 ---
 
@@ -62,14 +50,14 @@ And it helps to answer one common question: What is DevOps? How does it look lik
 One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
 
 
-<a id="org632b6b4"></a>
+<a id="orgde74a0d"></a>
 
-### Site Reliability Engineering
+## Site Reliability Engineering     :finished:
 
 -   [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=as_sl_pc_qf_sp_asin_til?tag=dennyzhang-20&linkCode=w00&linkId=2597588f2e45ec8d7582fd8e46108cc0&creativeASIN=149192912X): From this book, we know how Google do DevOps, how Google do SRE. Read it online [here](https://landing.google.com/sre/book/index.html).
 
 
-<a id="org3887e58"></a>
+<a id="org5af61e0"></a>
 
 ## DONE :noexport:
 
