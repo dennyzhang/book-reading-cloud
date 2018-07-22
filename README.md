@@ -1,15 +1,15 @@
 
 # Table of Contents
 
-1.  [Books](#org749ba4c)
-    1.  [Design It!: From Programmer to Software Architect](#org192c55d):Reading:
-    2.  [Building Microservices: Designing Fine-Grained Systems](#org0734c59):Reading:
-    3.  [Phoenix Project](#orgf3fa7a3):Finished:
-    4.  [Site Reliability Engineering](#orga1e010c):Finished:
+1.  [Books](#org0657ff8)
+    1.  [Design It!: From Programmer to Software Architect](#org61a4888):Reading:
+    2.  [Building Microservices: Designing Fine-Grained Systems](#org987e930):Reading:
+    3.  [Phoenix Project](#org5b4ec9c):Finished:
+    4.  [Site Reliability Engineering](#org3c6912b):Finished:
 
 
 
-<a id="org749ba4c"></a>
+<a id="org0657ff8"></a>
 
 # Books
 
@@ -22,29 +22,29 @@
 </div>
 
 
-<a id="org192c55d"></a>
+<a id="org61a4888"></a>
 
 ## Design It!: From Programmer to Software Architect     :Reading:
 
 <div class="HTML">
-<a href="https://amzn.to/2uIJrPb"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
 
 </div>
 
 
-<a id="org0734c59"></a>
+<a id="org987e930"></a>
 
 ## Building Microservices: Designing Fine-Grained Systems     :Reading:
 
 -   [Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
 
 <div class="HTML">
-<a href="https://amzn.to/2uCwzdB"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
 
 </div>
 
 
-<a id="orgf3fa7a3"></a>
+<a id="org5b4ec9c"></a>
 
 ## Phoenix Project     :Finished:
 
@@ -55,12 +55,12 @@ And it helps to answer one common question: What is DevOps? How does it look lik
 One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
 
 <div class="HTML">
-<a href="https://amzn.to/2Ny00V9"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
+<a href="https://amzn.to/2Ny00V9"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
 
 </div>
 
 
-<a id="orga1e010c"></a>
+<a id="org3c6912b"></a>
 
 ## Site Reliability Engineering     :Finished:
 
@@ -69,7 +69,7 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 From this book, we know how Google do DevOps, how Google do SRE. Read it online [here](https://landing.google.com/sre/book/index.html).
 
 <div class="HTML">
-<a href="https://amzn.to/2uCwzdB"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
 
 </div>
 

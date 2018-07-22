@@ -12,14 +12,14 @@
 #+END_HTML
 ** Design It!: From Programmer to Software Architect                :Reading:
 #+BEGIN_HTML
-<a href="https://amzn.to/2uIJrPb"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
 #+END_HTML
 
 ** Building Microservices: Designing Fine-Grained Systems           :Reading:
 - [[https://amzn.to/2uCwzdB][Building Microservices]]: Very informative and helpful, if your org want to migrate to container world.
 
 #+BEGIN_HTML
-<a href="https://amzn.to/2uCwzdB"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
 #+END_HTML
 
 ** Phoenix Project                                                 :Finished:
@@ -30,7 +30,7 @@ And it helps to answer one common question: What is DevOps? How does it look lik
 One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
 
 #+BEGIN_HTML
-<a href="https://amzn.to/2Ny00V9"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
+<a href="https://amzn.to/2Ny00V9"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
 #+END_HTML
 
 *** details                                                        :noexport:
@@ -46,7 +46,7 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
 
 #+BEGIN_HTML
-<a href="https://amzn.to/2uCwzdB"><img width="130" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
+<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
 #+END_HTML
 
 **** details                                                       :noexport:
