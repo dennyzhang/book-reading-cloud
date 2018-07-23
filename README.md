@@ -1,15 +1,15 @@
 
 # Table of Contents
 
-1.  [Books](#org0657ff8)
-    1.  [Design It!: From Programmer to Software Architect](#org61a4888):Reading:
-    2.  [Building Microservices: Designing Fine-Grained Systems](#org987e930):Reading:
-    3.  [Phoenix Project](#org5b4ec9c):Finished:
-    4.  [Site Reliability Engineering](#org3c6912b):Finished:
+1.  [Books](#org15b9d3d)
+    1.  [Building Microservices: Designing Fine-Grained Systems](#orgc941d3a):Reading:
+    2.  [Design It!: From Programmer to Software Architect](#orgef786d6):Reading:
+    3.  [Phoenix Project](#org909c216):Finished:
+    4.  [Site Reliability Engineering](#org130dc80):Finished:
 
 
 
-<a id="org0657ff8"></a>
+<a id="org15b9d3d"></a>
 
 # Books
 
@@ -22,7 +22,21 @@
 </div>
 
 
-<a id="org61a4888"></a>
+<a id="orgc941d3a"></a>
+
+## Building Microservices: Designing Fine-Grained Systems     :Reading:
+
+-   [Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
+
+In chapter2, lots of wonderful thinking about architect role
+
+<div class="HTML">
+<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+
+</div>
+
+
+<a id="orgef786d6"></a>
 
 ## Design It!: From Programmer to Software Architect     :Reading:
 
@@ -32,19 +46,7 @@
 </div>
 
 
-<a id="org987e930"></a>
-
-## Building Microservices: Designing Fine-Grained Systems     :Reading:
-
--   [Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
-
-<div class="HTML">
-<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
-
-</div>
-
-
-<a id="org5b4ec9c"></a>
+<a id="org909c216"></a>
 
 ## Phoenix Project     :Finished:
 
@@ -60,7 +62,7 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 </div>
 
 
-<a id="org3c6912b"></a>
+<a id="org130dc80"></a>
 
 ## Site Reliability Engineering     :Finished:
 

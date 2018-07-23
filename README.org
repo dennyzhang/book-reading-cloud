@@ -10,16 +10,19 @@
 <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
 <a href="https://github.com/DennyZhang"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 #+END_HTML
-** Design It!: From Programmer to Software Architect                :Reading:
-#+BEGIN_HTML
-<a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
-#+END_HTML
 
 ** Building Microservices: Designing Fine-Grained Systems           :Reading:
 - [[https://amzn.to/2uCwzdB][Building Microservices]]: Very informative and helpful, if your org want to migrate to container world.
 
+In chapter2, lots of wonderful thinking about architect role
+
 #+BEGIN_HTML
 <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+#+END_HTML
+*** local notes                                                    :noexport:
+** Design It!: From Programmer to Software Architect                :Reading:
+#+BEGIN_HTML
+<a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
 #+END_HTML
 
 ** Phoenix Project                                                 :Finished:
@@ -63,8 +66,9 @@ From this book, we know how Google do DevOps, how Google do SRE. Read it online 
 #+END_HTML
 
 ** HALF                                                            :noexport:
-** TODO [#A] Generate amazon associate link
-** TODO export markdown with correct image link
+*** DONE [#A] Generate amazon associate link
+    CLOSED: [2018-07-22 Sun 16:30]
+*** DONE export markdown with correct image link
+    CLOSED: [2018-07-22 Sun 16:30]
 ** TODO Crontab to publish markdown from org-mode knowledgebase
 ** TODO publish wordpress blog per book
-** TODO Add a list of recommendation
