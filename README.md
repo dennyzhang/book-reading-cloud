@@ -1,15 +1,15 @@
 
 # Table of Contents
 
-1.  [Books](#org15b9d3d)
-    1.  [Building Microservices: Designing Fine-Grained Systems](#orgc941d3a):Reading:
-    2.  [Design It!: From Programmer to Software Architect](#orgef786d6):Reading:
-    3.  [Phoenix Project](#org909c216):Finished:
-    4.  [Site Reliability Engineering](#org130dc80):Finished:
+1.  [Books](#orgd533ba5)
+    1.  [Building Microservices: Designing Fine-Grained Systems](#orgfcebe9c):Reading:
+    2.  [Design It!: From Programmer to Software Architect](#org2314de0):Reading:
+    3.  [Phoenix Project](#org63b64c4):Finished:
+    4.  [Site Reliability Engineering](#org1ef284e):Finished:
 
 
 
-<a id="org15b9d3d"></a>
+<a id="orgd533ba5"></a>
 
 # Books
 
@@ -22,13 +22,14 @@
 </div>
 
 
-<a id="orgc941d3a"></a>
+<a id="orgfcebe9c"></a>
 
 ## Building Microservices: Designing Fine-Grained Systems     :Reading:
 
--   [Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
+[Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
 
-In chapter2, lots of wonderful thinking about architect role
+-   In page1 chapter1, dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten in two weeks, a rule of thumb that makes sense for his particular context.
+-   In chapter2, lots of wonderful thinkings about the architect role
 
 <div class="HTML">
 <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
@@ -36,7 +37,7 @@ In chapter2, lots of wonderful thinking about architect role
 </div>
 
 
-<a id="orgef786d6"></a>
+<a id="org2314de0"></a>
 
 ## Design It!: From Programmer to Software Architect     :Reading:
 
@@ -46,7 +47,7 @@ In chapter2, lots of wonderful thinking about architect role
 </div>
 
 
-<a id="org909c216"></a>
+<a id="org63b64c4"></a>
 
 ## Phoenix Project     :Finished:
 
@@ -62,7 +63,7 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 </div>
 
 
-<a id="org130dc80"></a>
+<a id="org1ef284e"></a>
 
 ## Site Reliability Engineering     :Finished:
 
