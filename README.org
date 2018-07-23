@@ -14,7 +14,7 @@
 ** Building Microservices: Designing Fine-Grained Systems           :Reading:
 [[https://amzn.to/2uCwzdB][Building Microservices]]: Very informative and helpful, if your org want to migrate to container world.
 
-- [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten in two weeks, a rule of thumb that makes sense for his particular context.
+- [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten *in two weeks*, a rule of thumb that makes sense for his particular context.
 - [Chapter2] lots of wonderful thinkings about the architect role
 
 #+BEGIN_HTML

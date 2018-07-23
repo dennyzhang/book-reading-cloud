@@ -1,15 +1,15 @@
 
 # Table of Contents
 
-1.  [Books](#org6108850)
-    1.  [Building Microservices: Designing Fine-Grained Systems](#org852db00):Reading:
-    2.  [Design It!: From Programmer to Software Architect](#org55b9411):Reading:
-    3.  [Phoenix Project](#org3193e67):Finished:
-    4.  [Site Reliability Engineering](#org8f22487):Finished:
+1.  [Books](#org4bf183d)
+    1.  [Building Microservices: Designing Fine-Grained Systems](#org157a82c):Reading:
+    2.  [Design It!: From Programmer to Software Architect](#orga0d03ac):Reading:
+    3.  [Phoenix Project](#org1f6d016):Finished:
+    4.  [Site Reliability Engineering](#org22ba820):Finished:
 
 
 
-<a id="org6108850"></a>
+<a id="org4bf183d"></a>
 
 # Books
 
@@ -22,13 +22,13 @@
 </div>
 
 
-<a id="org852db00"></a>
+<a id="org157a82c"></a>
 
 ## Building Microservices: Designing Fine-Grained Systems     :Reading:
 
 [Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
 
--   [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten in two weeks, a rule of thumb that makes sense for his particular context.
+-   [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten **in two weeks**, a rule of thumb that makes sense for his particular context.
 -   [Chapter2] lots of wonderful thinkings about the architect role
 
 <div class="HTML">
@@ -37,7 +37,7 @@
 </div>
 
 
-<a id="org55b9411"></a>
+<a id="orga0d03ac"></a>
 
 ## Design It!: From Programmer to Software Architect     :Reading:
 
@@ -47,7 +47,7 @@
 </div>
 
 
-<a id="org3193e67"></a>
+<a id="org1f6d016"></a>
 
 ## Phoenix Project     :Finished:
 
@@ -63,7 +63,7 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 </div>
 
 
-<a id="org8f22487"></a>
+<a id="org22ba820"></a>
 
 ## Site Reliability Engineering     :Finished:
 
