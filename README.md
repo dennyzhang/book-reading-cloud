@@ -1,15 +1,15 @@
 
 # Table of Contents
 
-1.  [Books](#orgd533ba5)
-    1.  [Building Microservices: Designing Fine-Grained Systems](#orgfcebe9c):Reading:
-    2.  [Design It!: From Programmer to Software Architect](#org2314de0):Reading:
-    3.  [Phoenix Project](#org63b64c4):Finished:
-    4.  [Site Reliability Engineering](#org1ef284e):Finished:
+1.  [Books](#org6108850)
+    1.  [Building Microservices: Designing Fine-Grained Systems](#org852db00):Reading:
+    2.  [Design It!: From Programmer to Software Architect](#org55b9411):Reading:
+    3.  [Phoenix Project](#org3193e67):Finished:
+    4.  [Site Reliability Engineering](#org8f22487):Finished:
 
 
 
-<a id="orgd533ba5"></a>
+<a id="org6108850"></a>
 
 # Books
 
@@ -22,14 +22,14 @@
 </div>
 
 
-<a id="orgfcebe9c"></a>
+<a id="org852db00"></a>
 
 ## Building Microservices: Designing Fine-Grained Systems     :Reading:
 
 [Building Microservices](https://amzn.to/2uCwzdB): Very informative and helpful, if your org want to migrate to container world.
 
--   In page1 chapter1, dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten in two weeks, a rule of thumb that makes sense for his particular context.
--   In chapter2, lots of wonderful thinkings about the architect role
+-   [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten in two weeks, a rule of thumb that makes sense for his particular context.
+-   [Chapter2] lots of wonderful thinkings about the architect role
 
 <div class="HTML">
 <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
@@ -37,7 +37,7 @@
 </div>
 
 
-<a id="org2314de0"></a>
+<a id="org55b9411"></a>
 
 ## Design It!: From Programmer to Software Architect     :Reading:
 
@@ -47,7 +47,7 @@
 </div>
 
 
-<a id="org63b64c4"></a>
+<a id="org3193e67"></a>
 
 ## Phoenix Project     :Finished:
 
@@ -63,7 +63,7 @@ One big problem for reading is it's super hard to start. This novel makes it eas
 </div>
 
 
-<a id="org1ef284e"></a>
+<a id="org8f22487"></a>
 
 ## Site Reliability Engineering     :Finished:
 
