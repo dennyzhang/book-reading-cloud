@@ -21,6 +21,10 @@
 <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
 #+END_HTML
 *** local notes                                                    :noexport:
+**** Page18/Chapter2: For a technical discussions, do we have implied conflict goals, which both sides haven't noticed or explictly state them out?
+**** P18: General statement may not make sense in some contexts. And could be a bad thing in other contexts.
+**** P18 Heroku's factores are a set of design principles
+http://www.12factor.net 
 ** Design It!: From Programmer to Software Architect                :Reading:
 #+BEGIN_HTML
 <a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
