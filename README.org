@@ -35,9 +35,11 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
  - [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten *in two weeks*, a rule of thumb that makes sense for his particular context.
  - [Chapter2] lots of wonderful thinkings about the architect role
 
- #+BEGIN_HTML
- <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
- #+END_HTML
+#+BEGIN_HTML
+<div style="text-align:center">
+<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+</div>
+#+END_HTML
 **** local notes                                                   :noexport:
 ***** Page18/Chapter2: For a technical discussions, do we have implied conflict goals, which both sides haven't noticed or explictly state them out?
 ***** P18: General statement may not make sense in some contexts. And could be a bad thing in other contexts.
