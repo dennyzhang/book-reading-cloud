@@ -36,9 +36,7 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
  - [Chapter2] lots of wonderful thinkings about the architect role
 
 #+BEGIN_HTML
-<div align="center">
-<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
-</div>
+<div align="center"><a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a></div>
 #+END_HTML
 **** local notes                                                   :noexport:
 ***** Page18/Chapter2: For a technical discussions, do we have implied conflict goals, which both sides haven't noticed or explictly state them out?
@@ -47,7 +45,7 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
  http://www.12factor.net 
 *** Design It!: From Programmer to Software Architect               :Reading:
  #+BEGIN_HTML
- <a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
+<div align="center"> <a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a></div>
  #+END_HTML
 
 ** Finished
@@ -59,7 +57,7 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
  One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
 
  #+BEGIN_HTML
- <a href="https://amzn.to/2Ny00V9"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
+<div align="center"> <a href="https://amzn.to/2Ny00V9"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a></div>
  #+END_HTML
 
 **** details                                                       :noexport:
@@ -75,7 +73,7 @@ See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][
  From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
 
  #+BEGIN_HTML
- <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
+<div align="center"> <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a></div>
  #+END_HTML
 
 ***** details                                                      :noexport:
