@@ -1,75 +1,107 @@
-#+STARTUP: showeverything
-#+SEQ_TODO: TODO HALF | DONE
-#+TAGS: noexport(n) Finished(f) Reading(r)
-#+AUTHOR: dennyzhang.com (denny@dennyzhang.com)
-#+OPTIONS: creator:nil
-* Books
+* org-mode configuration                                           :noexport:
+#+STARTUP: overview customtime noalign logdone hidestars
+#+TITLE:  IT Book Reading Notes
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+AUTHOR: Denny Zhang
+#+EMAIL:  denny@dennyzhang.com
+#+TAGS: noexport(n)
+#+PRIORITIES: A D C
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:nil skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_EXCLUDE_TAGS: exclude noexport
+#+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
+#+LINK_UP:   
+#+LINK_HOME: 
+* Summary
 #+BEGIN_HTML
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack" target="_blank" rel="nofollow"><img src="http://slack.dennyzhang.com/badge.svg" alt="slack"/></a>
 <a href="https://github.com/DennyZhang"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
+
+<br/><br/>
+
+<a href="http://makeapullrequest.com" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 #+END_HTML
+* Books
+File me [[https://github.com/DennyZhang/book-reading-cloud/issues][Issues]] or star [[https://github.com/DennyZhang/book-reading-cloud][this repo]].
 
-** Building Microservices: Designing Fine-Grained Systems           :Reading:
-[[https://amzn.to/2uCwzdB][Building Microservices]]: Very informative and helpful, if your org want to migrate to container world.
+See more CheatSheets from Denny: [[https://github.com/topics/denny-cheatsheets][#denny-cheatsheets]]
+** Reading
+*** Building Microservices: Designing Fine-Grained Systems          :Reading:
+ [[https://amzn.to/2uCwzdB][Building Microservices]]: Very informative and helpful, if your org want to migrate to container world.
 
-- [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten *in two weeks*, a rule of thumb that makes sense for his particular context.
-- [Chapter2] lots of wonderful thinkings about the architect role
+ - [Page1/Chapter1] Dividing a big system into small pieces(micro-service) can simplify the development. But how small is small enough? Jon Eaves at RealEstate.com.au in Australia characterizes a microservice as something that could be rewritten *in two weeks*, a rule of thumb that makes sense for his particular context.
+ - [Chapter2] lots of wonderful thinkings about the architect role
 
-#+BEGIN_HTML
-<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
-#+END_HTML
-*** local notes                                                    :noexport:
-**** Page18/Chapter2: For a technical discussions, do we have implied conflict goals, which both sides haven't noticed or explictly state them out?
-**** P18: General statement may not make sense in some contexts. And could be a bad thing in other contexts.
-**** P18 Heroku's factores are a set of design principles
-http://www.12factor.net 
-** Design It!: From Programmer to Software Architect                :Reading:
-#+BEGIN_HTML
-<a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
-#+END_HTML
+ #+BEGIN_HTML
+ <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/build-microservice.png" alt="denny book" /></a>
+ #+END_HTML
+**** local notes                                                   :noexport:
+***** Page18/Chapter2: For a technical discussions, do we have implied conflict goals, which both sides haven't noticed or explictly state them out?
+***** P18: General statement may not make sense in some contexts. And could be a bad thing in other contexts.
+***** P18 Heroku's factores are a set of design principles
+ http://www.12factor.net 
+*** Design It!: From Programmer to Software Architect               :Reading:
+ #+BEGIN_HTML
+ <a href="https://amzn.to/2uIJrPb"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/design-it.png" alt="denny book" /></a>
+ #+END_HTML
 
-** Phoenix Project                                                 :Finished:
-- [[https://amzn.to/2Ny00V9][The Phoenix Project]] An interesting novel. I love it! Quite easy to read and very amusing. 
+** Finished
+*** Phoenix Project                                                :Finished:
+ - [[https://amzn.to/2Ny00V9][The Phoenix Project]] An interesting novel. I love it! Quite easy to read and very amusing. 
 
-And it helps to answer one common question: What is DevOps? How does it look like?
+ And it helps to answer one common question: What is DevOps? How does it look like?
 
-One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
+ One big problem for reading is it's super hard to start. This novel makes it easier. Try it.
 
-#+BEGIN_HTML
-<a href="https://amzn.to/2Ny00V9"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
-#+END_HTML
-
-*** details                                                        :noexport:
----------------------------------------------------------------------
-#+BEGIN_HTML
-<div>
-<iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=0988262509&amp;asins=0988262509&amp;linkId=71878608a6bfd8fe98ca2cc56a10031a&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
-</iframe>
-#+END_HTML
-** Site Reliability Engineering                                    :Finished:
-- [[https://amzn.to/2uGnKiH][Site Reliability Engineering]]
-
-From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
-
-#+BEGIN_HTML
-<a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
-#+END_HTML
+ #+BEGIN_HTML
+ <a href="https://amzn.to/2Ny00V9"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/phoneix-project.png" alt="denny book" /></a>
+ #+END_HTML
 
 **** details                                                       :noexport:
-#+BEGIN_HTML
- <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+ ---------------------------------------------------------------------
+ #+BEGIN_HTML
+ <div>
+ <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=0988262509&amp;asins=0988262509&amp;linkId=71878608a6bfd8fe98ca2cc56a10031a&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
  </iframe>
-#+END_HTML
+ #+END_HTML
+*** Site Reliability Engineering                                   :Finished:
+ - [[https://amzn.to/2uGnKiH][Site Reliability Engineering]]
 
-----------------------------------------------------------------------------------------------------------------
+ From this book, we know how Google do DevOps, how Google do SRE. Read it online [[url-external:https://landing.google.com/sre/book/index.html][here]].
+
+ #+BEGIN_HTML
+ <a href="https://amzn.to/2uCwzdB"><img width="120" height="200" src="https://raw.githubusercontent.com/DennyZhang/book-reading-cloud/master/images/google-sre.png" alt="denny book" /></a>
+ #+END_HTML
+
+***** details                                                      :noexport:
+ #+BEGIN_HTML
+  <iframe style="width: 120px; height: 240px;" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ac&amp;ref=qf_sp_asin_til&amp;ad_type=product_link&amp;tracking_id=dennyzhang-20&amp;marketplace=amazon&amp;region=US&amp;placement=149192912X&amp;asins=149192912X&amp;linkId=2597588f2e45ec8d7582fd8e46108cc0&amp;show_border=false&amp;link_opens_in_new_window=false&amp;price_color=333333&amp;title_color=0066c0&amp;bg_color=ffffff" width="300" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no">
+  </iframe>
+ #+END_HTML
+
+ ----------------------------------------------------------------------------------------------------------------
+ #+BEGIN_HTML
+ <a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
+
+ <a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
+ #+END_HTML
+
+* More Resources
+License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
 #+BEGIN_HTML
 <a href="https://www.dennyzhang.com"><img align="right" width="201" height="268" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/denny_201706.png"></a>
 
 <a href="https://www.dennyzhang.com"><img align="right" src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/dns_small.png"></a>
 #+END_HTML
-
+#+STARTUP: showeverything
+#+SEQ_TODO: TODO HALF | DONE
+#+TAGS: noexport(n) Finished(f) Reading(r)
+#+AUTHOR: dennyzhang.com (denny@dennyzhang.com)
+#+OPTIONS: creator:nil
+* Local notes                                                      :noexport:
 ** HALF                                                            :noexport:
 *** DONE [#A] Generate amazon associate link
     CLOSED: [2018-07-22 Sun 16:30]
